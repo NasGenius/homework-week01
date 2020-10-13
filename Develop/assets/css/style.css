@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 
+/*---- float values --------*/
+
 .float-left {
     float: left;
     margin-right: 25px;
