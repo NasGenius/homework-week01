@@ -59,7 +59,7 @@ p {
     background-position: center;
 }
 
-/*---- float values --------*/
+/*---- float values ----*/
 
 .float-left {
     float: left;
@@ -90,16 +90,8 @@ p {
 
 /* Grouping similar color values together */
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
