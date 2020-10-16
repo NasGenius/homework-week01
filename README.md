@@ -13,6 +13,8 @@ Usage of this repository is showcasing some of the things you can do with HTML c
 
 Credit for this project goes to my instructor @aaronjewell, my TA's along with my fellow peers from Group - 5 for answering questions. They all assist me with my assignment. By posting helpful links, our class lectures and most importantly all the practice that was given. 
 
+![Sample-Photo](https://github.com/NasGenius/homework-week01/blob/main/css/assets/images/Screen%20Shot%202020-10-16%20at%201.24.38%20AM.png?raw=true)
+
 ## License
 
 MIT License
